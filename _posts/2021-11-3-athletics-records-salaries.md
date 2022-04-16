@@ -1,5 +1,5 @@
 ---
-title: Quantifying Value Added By NCAA Athletics Coaches
+title: Coaching Salaries and Coaching Value
 teaser: Comparing salaries of college athletics coaches in an effort to quantify value added. A comparison of salaries vs win-loss records for coaches across UCLA sports as well as a comparison for football and basketball across the PAC-12. We are looking for students, student-athletes and coaches to interview
 authors: 
 - sid_baphna
@@ -33,3 +33,10 @@ stylesheets:
 ### Introduction
 hello world
 <div class="bubble-chart"><canvas id = "bubble-chart"></canvas></div>
+
+
+
+
+
+### PAC-12 Head Football Coach Salaries 2015-2020
+<iframe title="PAC-12 Head Football Coach Salaries 2015-2020" aria-label="Interactive line chart" id="datawrapper-chart-BW1Zx" src="https://datawrapper.dwcdn.net/BW1Zx/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="530"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
